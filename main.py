@@ -3,7 +3,7 @@ from telebot import types
 import random
 import os
 
-bot = telebot.TeleBot("6948422583:AAF39v-NycTugw-uMglkvVFwLfJfv86JzLU")
+bot = telebot.TeleBot("")
 
 drink = ['Кола', 'Шампанское', 'Сок', 'Вино', 'Спрайт']
 
